@@ -12,7 +12,8 @@ Brick Breaker made in C++ (OpenGL) as a semester project for OOP module at FAST-
 ## Controls:
 Use the **mouse** to control the primary paddle<br>
 Arrow Keys can be used to control the secondary paddle (only in Level 3)<br>
-Each Brick has different lives and PowerUps based on randomly assigned initial attributes.
+Each Brick has different lives and PowerUps based on randomly assigned initial attributes<br>
+Escape (ESC) Key can be used to go back to the previous window where the Keys aren't specifically observable<br>
 
 ## Understanding the code:
 1. A primary class **Paddle** that inherits from the **Grid** class and has other class objects made in composition.
