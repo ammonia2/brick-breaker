@@ -4,14 +4,14 @@ Brick Breaker made in C++ (OpenGL) as a semester project for OOP module at FAST-
 ## How to compile:
 1. Clone the repository in Linux Ubuntu Distro
 2. Run the following commands:
-   (i)   sudo apt update\n
-   (ii)  sudo apt-install build-essential\n
+   (i)   sudo apt update<br>
+   (ii)  sudo apt-install build-essential<br>
    (iii) sudo apt-get install freeglut3-dev glew-utils libglew-dev libfreeimage-dev
 3. A Game exe will be created that can be executed by **./game**
 
 ## Controls:
-Use the **mouse** to control the primary paddle\n
-Arrow Keys can be used to control the secondary paddle (only in Level 3)\n
+Use the **mouse** to control the primary paddle<br>
+Arrow Keys can be used to control the secondary paddle (only in Level 3)<br>
 Each Brick has different lives and PowerUps based on randomly assigned initial attributes.
 
 ## Understanding the code:
